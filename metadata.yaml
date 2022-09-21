@@ -1,0 +1,35 @@
+_repo: The-true-prophecies-or-prognostications-of-Michael-Nostradamus-physician-to-Henry-II-Francis-__68907
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Garencieres, Theophilus de
+    gutenberg_agent_id: '55006'
+    url: http://www.gutenberg.org/2009/agents/55006
+creator:
+  author:
+    agent_name: Nostradamus, Michael
+    gutenberg_agent_id: '55005'
+    url: http://www.gutenberg.org/2009/agents/55005
+description: ''
+gutenberg_issued: '2022-09-04'
+identifiers:
+  gutenberg: '68907'
+language: en
+pgterms:marc904: http://posner.library.cmu.edu/Posner/books/pages.cgi?call=133.3_N89T_1672&layout=vol0/part0/copy0&res=med&file=0007
+pgterms:marc905: 20050922184556nostradamu
+pgterms:marc906: '1672'
+pgterms:marc907: gb
+production_note: Curtis Weyant and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Posner Memorial
+  Collection.)
+publication_note: United Kingdom :Thomas Ratcliffe and Nathaniel Thompson,1672.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The true prophecies or prognostications of Michael Nostradamus, physician
+  to Henry II. Francis II. and Charles IX. Kings of France, and one of the best astronomers
+  that ever were.: A work full of curiosity and learning. Translated and commented
+  by Theophilus de Garencieres, Doctor in Physick Colleg. Lond.'
+url: http://www.gutenberg.org/ebooks/68907
