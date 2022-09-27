@@ -5,12 +5,17 @@ contributor:
     agent_name: Garencieres, Theophilus de
     gutenberg_agent_id: '55006'
     url: http://www.gutenberg.org/2009/agents/55006
+covers:
+- cover_type: archival
+  image_path: 68907-h/images/cover.jpg
 creator:
   author:
     agent_name: Nostradamus, Michael
     gutenberg_agent_id: '55005'
     url: http://www.gutenberg.org/2009/agents/55005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68907#The-true-prophecies-or-prognostications-of-Michael-Nostradamus-physician-to-Henry-II-Francis-_
 gutenberg_issued: '2022-09-04'
 identifiers:
   gutenberg: '68907'
